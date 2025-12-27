@@ -1,0 +1,7 @@
+{
+  "name": "MerchMagic AI",
+  "description": "On-demand merch mockups powered by Gemini. Upload your logo and use AI to place it on products or edit scenes with natural language commands.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
